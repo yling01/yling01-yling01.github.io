@@ -31,6 +31,7 @@ facebook_username: tim19990623
 instagram_username: l_yingjie
 google_analytics: UA-177263854-1
 # Build settings
+theme: minima
 plugins:
   - jekyll-feed
   - jemoji
