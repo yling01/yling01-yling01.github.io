@@ -12,6 +12,6 @@ I enjoy coding, cooking, and any outdoor activities.
 
 I am still exploring the different possibilities in life, and I guess that is the interesting part of it:v::crossed_fingers:. 
 
-I am originally from Shanghai:night_with_stars:, where I stayed until college. 
+I am originally from Shanghai:night_with_stars:, where I lived until college. 
 
 You can find my resume [here](/assets/Yingjie_Ling_Fall_2021.pdf).
